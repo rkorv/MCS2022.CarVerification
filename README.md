@@ -2,15 +2,9 @@
 
 Competition: https://ods.ai/competitions/mcs_car_verification
 
-![alt text](assets/score_example.png)
-
-<center>
-
 | # |   ROC AUC   |   Domain 1   |   Domain 2   |   Domain 3   |   Domain 4   |   Domain 5   |
 |---|:-----------:|-------------:|-------------:|-------------:|-------------:|-------------:|
 | 1 |    0.97571  |     0.985    |    0.944     |    0.992     |    0.982     |    0.994     |
-
-</center>
 
 # Train and eval
 
